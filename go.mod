@@ -1,4 +1,4 @@
-module github.com/opfsun/user-login/v1
+module github.com/opfsun/user-login
 
 go 1.16
 
