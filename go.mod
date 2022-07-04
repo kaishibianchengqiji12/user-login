@@ -1,7 +1,7 @@
 module github.com/opfsun/user-login/v1
 
 go 1.16
-
+// retract v1.1.1 // please update to @master
 require (
 	github.com/Joker/hpp v1.0.0 // indirect
 	github.com/jonboulle/clockwork v0.3.0 // indirect
